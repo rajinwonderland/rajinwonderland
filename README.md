@@ -20,5 +20,9 @@ Aside from my work life, I am a soon to be husband, dog lover, comic book nerd, 
 Feel free to connect!
 
 
+<h1>#BlackLivesMatter</h1>
+
+Organizations that could use your financial support include [Black Lives Matter](https://blacklivesmatter.com/), The [NAACP Legal Defense and Educational Fund](https://www.naacpldf.org/), [Reclaim the Block](https://www.reclaimtheblock.org/), [The Equal Justice Initiative](https://eji.org/), [We The Protesters](https://www.wetheprotesters.org/), and the [George Floyd Memorial Fund](https://www.gofundme.com/f/georgefloyd).
+
 
 
