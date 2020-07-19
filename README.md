@@ -2,15 +2,13 @@
 <img src="assets/intro.gif">
 </p>
 
-<div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:center;">
+<p align="center">
 
 <img alt="twitter" src="https://img.shields.io/twitter/follow/rajinwonderland?label=Follow%20Me%21&style=social"/>
 
-<div style="width:5px;"></div>
-
 <img alt="github" src="https://img.shields.io/github/followers/rajinwonderland?style=social"/>
 
-</div>
+</p>
 
 
 # Hola I'm Raj! 👋🏽
