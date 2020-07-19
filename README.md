@@ -13,7 +13,7 @@
 
 # Hola I'm Raj! 👋🏽
 
-Cofounder of [Novvum](novvum.io), a full stack developer, startup generalist, and an aspiring student of life.
+Cofounder of [Novvum](https://novvum.io), a full stack developer, startup generalist, and an aspiring student of life.
 
 Aside from my work life, I am a soon to be husband, dog lover, comic book nerd, and in my free time, I love acquiring new skills and contributing to cool projects in whatever way possible!
 
