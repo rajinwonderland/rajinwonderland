@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/intro.gif">
+<img src="https://github.com/rajinwonderland/rajinwonderland/blob/master/assets/intro.gif?raw=true">
 </p>
 
 <p align="center">
