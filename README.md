@@ -11,18 +11,10 @@
 </p>
 
 
-# Hola I'm Raj! 👋🏽
+# Hi I'm Raj! 👋🏽
 
-Cofounder of [Novvum](https://novvum.io), a full stack developer, startup generalist, and an aspiring student of life.
+Cofounder of [AreaHub](https://areahub.com), [Novvum](https://novvum.io), [Watchtower](https://yourwatchtower.com), swiss-army knife for startups, Girl Dad, and an aspiring student of life.
 
-Aside from my work life, I am a soon to be husband, dog lover, comic book nerd, and in my free time, I love acquiring new skills and contributing to cool projects in whatever way possible!
+Aside from my work life, I am a girl dad, husband, dog lover, comic book nerd, and in my free time, I love acquiring new skills and contributing to cool projects in whatever way possible!
 
 Feel free to connect!
-
-
-<h1>#BlackLivesMatter</h1>
-
-Organizations that could use your financial support include [Black Lives Matter](https://blacklivesmatter.com/), The [NAACP Legal Defense and Educational Fund](https://www.naacpldf.org/), [Reclaim the Block](https://www.reclaimtheblock.org/), [The Equal Justice Initiative](https://eji.org/), [We The Protesters](https://www.wetheprotesters.org/), and the [George Floyd Memorial Fund](https://www.gofundme.com/f/georgefloyd).
-
-
-
